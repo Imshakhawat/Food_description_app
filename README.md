@@ -4,4 +4,4 @@
 <br>
 <p>A simple app to show Restaurant Menu in a
 descriptive manner.</p>
-<p>Tech stack: API, Kotlin, xml, json..</p>
+<p>Tech stack: API, Kotlin, xml, json.</p>
