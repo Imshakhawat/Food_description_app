@@ -1,5 +1,5 @@
 # Food_description_app
-<img  src='Food_description_app/Screenshot_1.jpg' width="400" height="550" >
+<img  src='Food_description_SS/Screenshot_1.jpg' width="400" height="550" >
 
 <br>
 <p>A simple app to show Restaurant Menu in a
